@@ -1,12 +1,12 @@
 // (◕⁠‿⁠◕⁠ ⁠)~
 //YOOO!! ammar is here 
-int L1 = 6;
-int L2 = 8;
-int L3 = 11;
-int L4 = 12;
-int L5 = 2;
-int L6 = 4;
-int L7 = 9;
+int L1 = 2;
+int L2 = 3;
+int L3 = 4;
+int L4 = 5;
+int L5 = 6;
+int L6 = 7;
+int L7 = 8;
 String yoo = "mario aa";
 int i=0;
 int tt=70;
